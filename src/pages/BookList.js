@@ -12,7 +12,7 @@ const BookList = () => {
     p={10}
   >
     {books.map(book =>
-      <Box p="5" boxShadow="xl" rounded="md" bg="lightgray" color="black">
+      <Box p="5" boxShadow="xl" rounded="md" bg="lightgray" color="black" key={book.title}>
         <Text fontSize="xl">{book.title}</Text>
         <Text fontSize="l">{book.author}</Text>
       </Box>)
