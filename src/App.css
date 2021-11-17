@@ -1,0 +1,9 @@
+body {
+    background-color: #1a202c !important;
+    color: white !important;
+}
+
+.page-header {
+    padding: 10px;
+    border-bottom: 1px solid;
+}
