@@ -3,6 +3,6 @@ import bookSlice from "../reducers/bookSlice";
 
 export const store = configureStore({
   reducer: {
-    book: bookSlice,
+    book: bookSlice.reducer,
   }
 });
