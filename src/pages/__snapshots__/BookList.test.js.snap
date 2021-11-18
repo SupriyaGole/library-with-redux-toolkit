@@ -1,0 +1,133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BookList should render book list with default books 1`] = `
+<div>
+  <div
+    class="css-wn1fcp"
+  >
+    <div
+      class="css-1yugytp"
+    >
+      <p
+        class="chakra-text css-6dvxm2"
+      >
+        1984
+      </p>
+      <p
+        class="chakra-text css-16mom77"
+      >
+        George Orwell
+      </p>
+    </div>
+    <div
+      class="css-1yugytp"
+    >
+      <p
+        class="chakra-text css-6dvxm2"
+      >
+        Harry Potter and the Philosopher's Stone
+      </p>
+      <p
+        class="chakra-text css-16mom77"
+      >
+        J. K. Rowling
+      </p>
+    </div>
+    <div
+      class="css-1yugytp"
+    >
+      <p
+        class="chakra-text css-6dvxm2"
+      >
+        The Lord of the Rings
+      </p>
+      <p
+        class="chakra-text css-16mom77"
+      >
+        J.R.R Tolkien
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`BookList should render book list with default books 2`] = `
+<body>
+  <div
+    id="chakra-toast-portal"
+  >
+    <ul
+      id="chakra-toast-manager-top"
+      style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column; margin: 0px auto;"
+    />
+    <ul
+      id="chakra-toast-manager-top-left"
+      style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column;"
+    />
+    <ul
+      id="chakra-toast-manager-top-right"
+      style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column;"
+    />
+    <ul
+      id="chakra-toast-manager-bottom-left"
+      style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column;"
+    />
+    <ul
+      id="chakra-toast-manager-bottom"
+      style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column; margin: 0px auto;"
+    />
+    <ul
+      id="chakra-toast-manager-bottom-right"
+      style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column;"
+    />
+  </div>
+  <div>
+    <div
+      class="css-wn1fcp"
+    >
+      <div
+        class="css-1yugytp"
+      >
+        <p
+          class="chakra-text css-6dvxm2"
+        >
+          1984
+        </p>
+        <p
+          class="chakra-text css-16mom77"
+        >
+          George Orwell
+        </p>
+      </div>
+      <div
+        class="css-1yugytp"
+      >
+        <p
+          class="chakra-text css-6dvxm2"
+        >
+          Harry Potter and the Philosopher's Stone
+        </p>
+        <p
+          class="chakra-text css-16mom77"
+        >
+          J. K. Rowling
+        </p>
+      </div>
+      <div
+        class="css-1yugytp"
+      >
+        <p
+          class="chakra-text css-6dvxm2"
+        >
+          The Lord of the Rings
+        </p>
+        <p
+          class="chakra-text css-16mom77"
+        >
+          J.R.R Tolkien
+        </p>
+      </div>
+    </div>
+  </div>
+</body>
+`;
